@@ -86,7 +86,9 @@ Want to report a new domain? Want to report existing one? Feel free to file an [
   * [For whitelist.txt](#for-whitelisttxt)
   * [For referral-sites.txt](#for-referral-sitestxt)
   * [For optional-list.txt](#for-optional-listtxt)
-  * [For Docker installation (with Python3 support)](#for-docker-installation-with-python3-support)
+  * [For 
+    
+    installation (with Python3 support)](#for-docker-installation-with-python3-support)
   * [For Docker installation (without Python3 support) or /etc/pihole on different directory](#for-docker-installation-without-python3-support-or-etcpihole-on-different-directory)
 - [Uninstall](#uninstall)
 - [Automated Update](#automated-update)
@@ -141,7 +143,7 @@ You can add it manually depending upon the service you use.
 
 #### For Docker installation (with Python3 support)
 
- Access you running Pi-Hole container by `docker exec -it <container-ID> bash` and proceed with the steps given below:
+ Access your running Pi-Hole container by `docker exec -it <container-ID> bash` and proceed with the steps given below:
 
 ```Shell
 git clone https://github.com/anudeepND/whitelist.git
