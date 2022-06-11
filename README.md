@@ -141,7 +141,7 @@ You can add it manually depending upon the service you use.
 
 #### For Docker installation (with Python3 support)
 
- Access you running Pi-Hole container by `docker exec -it <container-ID> bash` and proceed with the steps given below:
+ Access your running Pi-Hole container by `docker exec -it <container-ID> bash` and proceed with the steps given below:
 
 ```Shell
 git clone https://github.com/anudeepND/whitelist.git
